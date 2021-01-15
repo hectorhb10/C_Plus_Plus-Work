@@ -1,2 +1,3 @@
 # C_Plus_Plus-Work
-Few exercise done in C++
+Exercise done in C++ 
+few C++ exercise
